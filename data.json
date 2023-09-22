@@ -1,0 +1,71 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto" : "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/9/6/de594297-3a23-4085-a52b-7c507ba664bf.jpg",
+            "nama" : "Robusta flores",
+            "size" : "100 Gram",
+            "link" : "https://ta.tokopedia.com/promo/v1/clicks/8a-xgVY2gmUEosH7op1hH_KDUMVj9RzNrc1i6sJDUSupg9-wq3ei6iUhHpH7opKpHpJibm-pg9opq3YX9fBjUsti33P9HMPi3jNA1APzb3gUQu-OZIUh_7xtZJY18Bob1sVMqJe71_Bm63VMQMWCopVOqunR_Vz39pz213gAy3BJuAJ7HICzyBoEesxso9-0g7xfP9JWy1B0gJ2h_p-_r3z6HpVge1VF97OHg3g6ZACc__Hd3BoteO2d1jPXZfWMZpKibm-7q3OBUsthosjOHpeaoAyRbm-srcHi6sHRHAnDUSC5rfB7q3YXUstabm-0g9BRQR-j9fBjUstN6AU7H_jRbm-xQcri6i-0PVYFqI-xrf1ibm-XP3Oig9-wQfgwy3zpUstaHmFiQSuWyMua9fVjrOYag9Ji6sUFbm-sy9zwq3zpUs2QHp1DH_JRHaFaopKf9ZFiQBYsy3Njq3zxPcuwy3zpUstposUDUMVi9RzBrRei6i-6UiFirMYDQcuXyfuwgMh5PaUEUjds_iUDUS-5QchBQMoB9RgxrMBxQSzwQMVWgZUEUMo5QSzaQfhwPMVaq3VXPmosQfN7rMYD9RgxrMBxQSeibm-aQfhDg3NsguYB8ICBrMBWg3N79fNxQ31i6i-B8ICwgSCa9fYFPVYDQfoxPcB5QioB8ICwrSza9fNBPaUDUSC5rRzwy3hSUstiyRCs9RotQRCwP3NhUiFiPMuarfB5QiUEUSyaUiFiy3zwrfo5rM1i6sydHadhoAe76_J76AUposH7bm-pHOYDQfri6i-B812kgJxGgBBXZSgjH7NDZ325q1OAZ9o-Q1dFyfFN8B29zSBgHMP2_fB-8JhkgRxvzJ17_uzS8JYJz_zoucPd_7zVq1hAZS-q3cFpysoGqOKp_M2iH72DZ325q1OAoI2oqj7p_Bo-r7BWo9giQ1NDZ325qu293_C6ucrp_M2VPVjazMOvepnF3jzDqJh9z_-ozOu7_BPzHB2Jypz6uchk_BzVoJB2PfBiH72F3s-DPuKa1MhszsBF3jo-ojBke3BHe72fyfODQMV9o3gsZJ2f3jx3qMzc69Cqe7jfZ32Cq1hAZSgsQ3hXyurOgMHaqIgszsBF3jo-ojBke3BHe72dgVP383u36_CgufzEZ325q3Jp1MggQj2f3uPZ6cgIPACyH7-5yfOc8B2_Z9o-QjNkysoGQVKaZSBiHfzE3Bo-ojBke3BHe72E3_UN8u23692qu7gN3_-Sq1Y2Z_-vzJOO_uzzHJNJqRx6zcPN_92g8jNAZsjibm-sy9zBgfYa8uYpP3PSg9o79fV7PI-2ySu7gZUE3aUaopKfUiFiHsrdoa-Pbm-ag3hBPMVXyfuwrfo5rM1i6snX6AJRHsUFHsHpopjN6_JF6ZFirI-2yfuwyMBjUstpopnFbm-SQfVD9fBjUstabm-Mq3NxQVYag3hay3N09fVjrfo5rM1i6sjdHadFHAJpHAK7HAr7H_H7bm-hP3ua8uYag3hay3N09RosQR-BUstFbs17opKRHsHhH_1po_JhHAgY?dv=desktop&keywords=kopi+robusta+flores&pub_unit=0&page=1&src=search&is_search=1&t=desktop&management_type=1&pub_domain=0&r=https%3A%2F%2Fwww.tokopedia.com%2Fagroastery%2Fbiji-kopi-full-robusta-kopi-susu-ekonomis-1-kg-1kg-grind-fine%3FextParam%3Divf%253Dfalse%26src%3Dtopads&pub_id=0&ob=23",
+            "harga" : "98.000"
+        }
+    ],
+    "kopi_susu": [
+        {
+            "foto" : "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2020/5/4/52114941-b0d1-456b-aa4f-4d994000d6f3.jpg",
+            "nama" : "Kopi Susu Nusantara",
+            "size" : "1L",
+            "link" : "https://ta.tokopedia.com/promo/v1/clicks/8a-xgVY2gmUEo_1OosJpo_rDUMVj9RzNrc1i6sJDUSupg9-wq3ei6iUhHpH7opKpHpJibm-pg9opq3YX9fBjUsti33P9HMPi3jNA1APzb3gUQu-OZIUh_7xtZJY18Bob1sVMqJe71_Bm63VMQMWCopVOqunR_Vz39pz213gAy3BJuAJ7HICzyBoEesxso9-0g7xfP9JWy1B0gJ2h_p-_r3z6HpVge1VF97OHg3g6ZACc__Hd3BoteO2d1jPXZfWMZpKibm-7q3OBUsthosjOHpeaosU7bm-srcHi6s1Ro_nDUSC5rfB7q3YXUstabm-0g9BRQR-j9fBjUsthHpKRH_Jhos1dbm-xQcri6i-0PVYB8cVsPVY7QZUDUMNOQ3-BrBY5gBYxgIHi6sUFbm-XP3Oig9-wy3zp9R-BrZUEHsnDUMoxPVY2gIHi6BDpoZFhH_rpbAUR6AxPbm-X9foxQMz2gcV7guYxgIHi6sJNHiFiy3-wPcupPmUEUjdibm-aQfhDg3NsguYMQcYRUsti_io6UiFirMYDQcuXyfuwPMVaq3VXPVYXy3OBUstiyfYXPI-5QVYfy9-2y3N7Ufo5QSzaQfhwPMVaq3VXPmUDUS-5QchBQMoB9fudrcuaq3OBQSzwQMVWgZUEUMudrVYMrI-wQRC79fh5yfV7q3YXUfudrVYaPI-wQMuRUiFircYpPVYxQcri6i-srcowrfx5rVYOQSJibm-fg9-pq3YXUstiPsUibm-xgVYpyfYagZUE6_JabseN6AeRHArdHpKN6_rDUSHp9fh5gaUEUMuNZM2jZJ2M33NGPMep_Mh-qMY2_1o-r7BW_sCsQABE3BPc8ujagfBvq1BRZ3BRq3JausujHsBN3jyN8Bja69Bq17jfZ32CP1N1u92ouJjhZ3BRq3-W69ugHBu2_fB-8V2JeMWoz7uE_BHhqu213MOHuV-0_32SPJY1eM26q_CN_S2Dq7Nk_9x6Q177_jPuq1hAZSgsQ3hXyurOgB2IuSPyHMh0Z325q1OAZ9o-Q_BNyuPjrc-D69PsQ_B0gVP6HVKaQcW-qMY2_1o-r7BW69BxufzFyMFN8MVI69PyHMh0Z325q1OAZ9o-Qjyh3BxGouKp1MxqH7O2_fBGHc-y8AxxHO-M3BxtqVjp13BHe72E3_UN8u2363BsQ_jpyp-uq1Y2Z9P-q9P2yp-6PMoWuMgsHBgtyfO6Q7BkQfB68BuN_c2gH7OkZ92vuJVN_S2o8JO_Zsjibm-sy9zBgfYa8uYpP3PSg9o79fV7PI-2ySu7gZUE3aUaopKdUiFiHsrdoaUDUsUR6AyibmUpoAKfUiFiHsrhoi-Pbm-ag3hBPMVXyfuwrfo5rM1i6snX6_Ha6_ydosHhH_1RoAJNoiFirI-2yfuwyMBjUstOop1Fbm-SQfVD9fBjUstabm-Mq3NxQVYag3hay3N09fVjrfo5rM1i6sJpopeXopHdosUpH_K76_yFoZFir9uBrSBwrMuDrMVXqOYpyfYagZUEHmd7osHhHpnR6_jFH_JOosHawe?management_type=1&t=desktop&ob=23&is_search=1&pub_id=0&src=search&dv=desktop&keywords=kopi+susu&r=https%3A%2F%2Fwww.tokopedia.com%2Foleholehkopi%2Fkopi-susu-nusantara-sweetened-1-liter-less-sugar%3FextParam%3Divf%253Dfalse%26src%3Dtopads&page=1&pub_unit=0&pub_domain=0",
+            "harga" : "88.000"
+        },
+        {
+            "foto" : "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/7/3/255e0b3a-4661-4e07-8f64-b2120ab0ef13.png",
+            "nama" : "Kopi Susu Gula Aren",
+            "size" : "6+3pcs",
+            "link" : "https://www.tokopedia.com/wingsofficial/top-coffee-kopi-instan-susu-gula-aren-tubruk-3in1-27gr-isi-9-pcs-x-2?extParam=ivf%3Dfalse%26src%3Dsearch",
+            "harga" : "24.400"
+        },
+        {
+            "foto" : "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/2/16/58b3b153-c071-4656-a2d9-e6ee2ec66de9.jpg",
+            "nama" : "Kopi Susu Blend Coffea",
+            "size" : "1L",
+            "link" : "https://www.tokopedia.com/ottenjakarta/kopi-kapsul-o10-kopi-susu-blend-coffee-capsule-kapsul-nespresso?extParam=ivf%3Dfalse%26src%3Dsearch",
+            "harga" : "55.000"
+        }
+    ]
+}
